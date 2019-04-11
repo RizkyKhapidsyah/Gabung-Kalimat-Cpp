@@ -1,7 +1,7 @@
 /*
 	Copyright (c) 2019 by Rizky Khapidsyah
-	Compiler   :
-	I.D.E.     :
+	Compiler : TDM-GCC 4.9.2 64-bit Release
+	I.D.E    : Dev-Cpp
 */
 
 #include <cstdlib>
