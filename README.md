@@ -8,5 +8,5 @@ atau
 
 <b>strncat(var_tipe_char1, car_tipe_char2, jumlah_karakter);</b>
 
-<a href="https://github.com/RizkyKhapidsyah/Gabung-Kalimat-C/blob/master/Source.c" target="blank">Lihat Source!</a>
+<a href="" target="blank">Lihat Source!</a>
 
